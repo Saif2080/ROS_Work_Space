@@ -1,0 +1,8 @@
+prefix=/home/saif/catkin_ws/install
+
+Name: akm
+Description: Description of akm
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs
